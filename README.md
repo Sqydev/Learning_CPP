@@ -1,2 +1,3 @@
 # Learning_CPP
-My learning c++ repo
+My Learning Programing class notes about learning c++
+### THIS WILL BE WROTE IN POLISH
