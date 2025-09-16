@@ -1,9 +1,12 @@
+#include <algorithm>
 #include <cmath>
 #include <cstdio>
 #include <iostream>
 
 int main (int argc, char *argv[]) {
 	float promien;
+
+	if(promien < 0) { std::cout << "Zły promień"; return 1; }
 
 	std::cout << "Obliczacz kół: ";
 
